@@ -1,0 +1,60 @@
+* {
+    box-sizing: border-box;
+  }
+
+body {
+    display: grid;
+    grid-template-columns: 20% 80%;
+    grid-column-gap: 1em;
+       
+  
+    
+}
+
+.grid_1 {
+    background-color: #DCDCDC;
+    padding: 20px;
+    
+  }
+
+.grid_2 {
+    background-color: #C0C0C0;
+    padding: 20px;
+    width: 50%;       
+    
+}
+
+
+.name {   
+  
+  line-height: 0;
+
+}
+
+.workexp {
+  padding-top: 4px;  
+  line-height: 0;
+
+}
+
+img {
+    padding-top: 10px;
+    height: 346px;
+
+}
+
+table {
+    width: 80%;
+    font-size: 20px;
+}
+
+p {
+    font-size: 20px;
+}
+
+li {
+    font-size: 20px;
+}
+
+
+
